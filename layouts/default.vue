@@ -3,10 +3,10 @@
 </script>
 
 <template>
-    <div class="w-screen h-screen absolute top-0 overflow-x-hidden overflow-y ">
+    <div class="w-screen h-screen absolute top-0 overflow-x-hidden overflow-y bg-black">
         
-
-        <!-- <nav class="shadow-[2px_2px] shadow-lg shadow-nGreen text-white rounded-lg m-4 px-8 py-2 bg-nGray after:">
+<!-- 
+        <nav class="border border-[0.01em] border-nWhite text-white rounded-lg m-8 px-8 py-2">
             <span class="text-lg">
                 Home
             </span>

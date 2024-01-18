@@ -13,7 +13,7 @@ module.exports = {
       colors:{
         nGreen:'#00DC82',
         nWhite:'FFFFFF',
-        nGray:'#00DC82'
+        nGray:'#020420'
       }
     },
   },
