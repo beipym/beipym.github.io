@@ -1,0 +1,1 @@
+import{_ as o,v as s,N as t,t as r}from"./entry.b32e478e.js";const c={},n={class:"w-screen h-screen absolute top-0 overflow-x-hidden overflow-y bg-black"};function a(e,l){return r(),s("div",n,[t(e.$slots,"default")])}const d=o(c,[["render",a]]);export{d as default};
